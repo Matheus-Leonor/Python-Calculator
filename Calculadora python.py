@@ -1,10 +1,7 @@
 def raizes(a,b,c):
-    D = (b**2-4*a*c)
-    
+    D = (b**2-4*a*c)  
     x1 = (-b + D**(1/2))/(2*a)
     x2 = (-b - D**(1/2))/(2*a)
-    
-
 
     if D > 0: print('\nO valor de x1 é: {0}'.format(x1),
                 '\nO valor de x2 é: {0}'.format(x2))
@@ -14,7 +11,6 @@ def raizes(a,b,c):
 
     mensagem = "\nRaizes Reais!\n " if type(raizes) == float or int else "As raizes não são reais"
     print(mensagem)
-
 
 exibeMenu = print("""
 ******* Calculadora de Equações ****\n
