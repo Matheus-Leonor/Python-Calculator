@@ -7,3 +7,5 @@ Considerando também que:
 
 Nesse desafio o programa deveria informar quantas raizes reais a equação possui, porém será necessário alguns commits até ele atender bem a proposta. 
 No momento ele apenas informa se as raizes são reais ou não.
+
+![calculadoraPython](https://github.com/Matheus-Leonor/calculadora-python/assets/88976642/93656d76-da42-42e6-b571-a7c667b72177)
